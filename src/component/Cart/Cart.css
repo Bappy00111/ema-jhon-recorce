@@ -1,0 +1,31 @@
+.cart {
+    width: 265px;
+    height: 950px;
+    background-color: rgba(255, 153, 0, 0.3);
+    padding: 40px;
+    position: sticky;
+    top: 0;
+}
+
+.cart h3 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.cart p {
+    margin-bottom: 25px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+
+    color: #2A414F;
+
+}
